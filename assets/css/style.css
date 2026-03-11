@@ -407,6 +407,7 @@
     .hero,
     .hero-overlay {
       min-height: 42vh;
+      padding-left: 60px;
     }
   }
   
@@ -435,6 +436,7 @@
     .hero,
     .hero-overlay {
       min-height: 38vh;
+      padding-left: 0px;
     }
   
     .hero-text {
