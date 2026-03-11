@@ -1,18 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+  <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  {% include nav.html %}
 
-  {% include head.html %}
+  <main>
+    {{ content }}
+  </main>
 
-  <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-        {{ content }}
+  {% include footer.html %}
+  <div class="coati-fact-bubble">
+    <div class="coati-fact-bubble-inner">
+      <div class="coati-fact-label">Coati fact 🦝</div>
+      <p id="coatiFact"></p>
     </div>
-
-    {% include footer.html %}
-
-  </body>
-
+  </div>
+  <script>
+    const facts=[
+    "Coatis walk with their tails straight up like little flags so their group can follow them.",
+    "A coati’s nose is double-jointed and can rotate upward while sniffing for food.",
+    "Female coatis live in social bands of up to 30 animals.",
+    "Adult male coatis usually live alone.",
+    "Coatis sleep high in trees to avoid predators.",
+    "Baby coatis are called kits.",
+    "Coatis belong to the raccoon family.",
+    "Coatis are active during the day unlike raccoons."
+    ];
+    
+    const day=Math.floor(Date.now()/86400000);
+    document.getElementById("coatiFact").textContent=facts[day%facts.length];
+    </script>
+</body>
 </html>
