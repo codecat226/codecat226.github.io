@@ -11,14 +11,14 @@ title: Home
       <p class="hero-text">
       Nossas aventuras estão só começando...
       </p>
-      <a class="btn" href="{{ '/blog' | relative_url }}">Leia o blog</a>
+      <a class="btn" href="{{ '/blog' | relative_url }}">Read the blog</a>
     </div>
   </div>
 </section>
 
 <section class="section container">
   <div class="section-heading">
-    <h2>Posts mais recentes</h2>
+    <h2>Latest posts</h2>
     <p>Recent writing from the blog.</p>
   </div>
 

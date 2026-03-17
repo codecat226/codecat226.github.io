@@ -1,0 +1,77 @@
+---
+layout: post
+title: Off to Brazil!
+excerpt: Our first stop is in Rio de Janeiro, Brazil.
+---
+
+We arrived at Arlanda Terminal 2 with plenty of time to spare. Soon after, we received a notification that our flight had been delayed by 30 minutes.
+
+Kaj, before the delay news, happily enjoying the free beer in the lounge:
+![Lounge]({{ '/assets/images/lounge.jpeg' | relative_url }})
+
+Thirty minutes turned into forty, then fifty. By the time we finally boarded, it was already 19:15 — more than an hour after our scheduled departure time of 18:10. When 19:40 rolled around and we were still sitting on the runway, we started giving up on the idea of making our connecting flight in Lisbon at 23:25 to Rio. The mood was low, and when Kaj asked the cabin crew if they had any idea about the connection, they said they didn’t know.
+
+Finally, we landed at 23:00 — already past the gate closing time. However, the staff told us to follow the instructions of the people wearing orange vests. As soon as the plane came to a stop (and the seatbelt sign turned off, of course), we grabbed our bags and rushed off the plane.
+
+The airport was nearly empty except for a few staff members in orange vests, who shouted at us to run to border control and then to gate 42A. The border control officer barely looked at our passports before waving us through. Somehow, we made it just in time for the final call.
+
+10 hours across the Atlantic  
+![Map]({{ '/assets/images/map.jpeg' | relative_url }})
+
+I’m not sure if it was the unexpected cardio at 23:00 or just pure exhaustion, but both Kaj and I slept through most of the flight. We only woke up about two hours before landing.
+
+View from the window seat:
+![Window-rio]({{ '/assets/images/window-rio.jpeg' | relative_url }})
+
+As for the in-flight games, Kaj beat me at world trivia — I’m convinced it was rigged. After a quick Sudoku session, we finally landed in Rio de Janeiro!
+
+Kaj is a Sudoku master:
+![Sudoku]({{ '/assets/images/kaj-sudoku.jpeg' | relative_url }})
+
+Going through border control was surprisingly smooth. We joined the *estrangeiros* (foreigners) line, and it only took about ten minutes. Once outside, we were immediately bombarded with people asking “Taxi?”, but from prior research we knew the best way to get into the city was by Uber. Surprisingly, there was a designated Uber pickup area, which made things much easier.
+
+Organised Uber pickup spot:
+![Uber]({{ '/assets/images/uber-lot.jpeg' | relative_url }})
+
+Sweaty but happy at the Uber lot in Rio GIG Airport:
+![Together]({{ '/assets/images/waiting-uber.jpeg' | relative_url }})
+
+The drive to Ipanema took over an hour. The car ride was… eventful. Let’s just say we felt significantly safer driving in Albania than we did here.
+
+We made it to Ipanema, dropped off our bags, and headed straight for the beach.
+
+Five minutes into the walk, Kaj’s sandal gave up.
+
+The tragedy:
+![Together]({{ '/assets/images/sandal-broke.jpeg' | relative_url }})
+
+After finding a replacement, we finally made it to the beach.
+
+KAJPIRINHA
+![Together]({{ '/assets/images/kajpirinha.jpeg' | relative_url }})
+
+Extremely exhausted but happy at Copacabana Beach:
+![Together]({{ '/assets/images/tired-beach.jpeg' | relative_url }})
+
+We also found a nice café in Copacabana called **Teva Deli**. Kaj ordered the cheeseburger with truffle fries, and I got the mushroom Benedict.
+
+Cheeseburger — 6/10 (Kaj)
+![Cheeseburger]({{ '/assets/images/burger.jpeg' | relative_url }})
+
+Truffle fries — 3/10 (Kaj + Rika)
+![Fries]({{ '/assets/images/fries.jpeg' | relative_url }})
+
+Mushroom Benedict — 8/10 (Rika)
+![Together]({{ '/assets/images/mushroom.jpeg' | relative_url }})
+
+And finally for dinner we had some traditional Brazilian food.
+
+Feijoada:
+![Feijoada]({{ '/assets/images/feijoada.jpeg' | relative_url }})
+
+![Feijoada]({{ '/assets/images/feijoadab.jpeg' | relative_url }})
+
+Moqueca:
+![Moqueca]({{ '/assets/images/moqueca.jpeg' | relative_url }})
+
+Stay tuned for more Rio Adventures!
