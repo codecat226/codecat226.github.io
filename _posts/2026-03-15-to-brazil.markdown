@@ -66,12 +66,12 @@ Mushroom Benedict — 8/10 (Rika)
 
 And finally for dinner we had some traditional Brazilian food.
 
-Feijoada:
+Feijoada: — 7/10 (Rika)
 ![Feijoada]({{ '/assets/images/feijoada.jpeg' | relative_url }})
 
 ![Feijoada]({{ '/assets/images/feijoadab.jpeg' | relative_url }})
 
-Moqueca:
+Moqueca — 8/10 (Kaj)
 ![Moqueca]({{ '/assets/images/moqueca.jpeg' | relative_url }})
 
 Stay tuned for more Rio Adventures!
