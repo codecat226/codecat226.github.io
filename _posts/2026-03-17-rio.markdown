@@ -1,0 +1,64 @@
+---
+layout: post
+title: Rio by day
+excerpt: 
+---
+
+Hello. This message is delivered to you by Kaj.
+
+We were greeted today by another blue sky. The sun has really been smiling since we arrived in Rio yesterday morning. 
+
+After some deliberation we decided on two objectives for the day: Sugarloaf Mountain and the Museum of Tomorrow (Museo do Amanha).
+
+We hailed an Uber after breakfast and went headed to the north of Copacabana beach, to the neighborhood of Botafogo. 
+A gondola took us to the first mountain, where we enjoyed som nice views of the city and the surrounding landscape. It's beautiful!
+
+The gondola!
+![gondola]({{ '/assets/images/260317/kaj_gondol.jpeg' | relative_url }})
+
+We boarded a second gondola to get to Sugarloaf Mountain, an imposing rock with steep sides that rises out of the Atlantic. Once up there we were treated to even more amazing views of, among other things, Copacabana Beach. We were also lucky enough to get a glimpse of some wildlife, tiny howler monkeys inhabit the mountain and they were super cute!
+
+The gondola to Sugarloaf Mountain.
+![sugarloaf]({{ '/assets/images/260317/sugarloaf_mnt_2.jpeg' | relative_url }})
+
+Rika made a friend in the little grove at the top of the mountain.
+
+The lizard!
+![lizard]({{ '/assets/images/260317/rika_and_friend.jpeg' | relative_url }})
+
+It was approaching noon so we dicided to have som acai. It's super delicious. 
+
+Acai - 10/10 (Rika + Kaj)
+![acai]({{ '/assets/images/260317/rika_acai.jpeg' | relative_url }})
+
+For lunch we went to Café Tero in the central city. I had a vegetable curry and Rika went for an aubergine sandwich. It was all very good, albeit a bit salty. 
+
+Lunch break!
+![rika_lunch]({{ '/assets/images/260317/rika_lunch.jpeg' | relative_url }})
+
+![kaj_lunch]({{ '/assets/images/260317/kaj_lunch.jpeg' | relative_url }})
+The curry - 7/10 (Kaj)
+![curry]({{ '/assets/images/260317/lunch_curry.jpeg' | relative_url }})
+The sandwich - 8/10 (Rika)
+![sandwich]({{ '/assets/images/260317/lunch_sandwich.jpeg' | relative_url }})
+
+We spent the afternoon in the Museum of Tomorrow. It's a futuristic building by the water. The exhibition was pretty cool, especially the introductory 360-degree video show. We spent about two hours in the museum, including a visit to the temporary ocean exhibit (which was all in Portuguese). All in all it was a fun experience!
+
+The museum!
+![museum]({{ '/assets/images/260317/tmrw_outside.jpeg' | relative_url }})
+
+The museum!
+![museum_inside]({{ '/assets/images/260317/tmrw_inside.jpeg' | relative_url }})
+
+Before taking the metro back to Ipanema we had som coffee at a cafe. 
+
+Dinner was taken at a vegan fast-food place called Acogue Vegano (Vegan Butcher). It was cheap and greasy. Perfect after a long day of sightseeing.
+
+The melt - 6/10 (Rika)
+![melt]({{ '/assets/images/260317/dinner_melt.jpeg' | relative_url }})
+The bbq - 7/10 (Kaj)
+![bbq]({{ '/assets/images/260317/dinner_bbq.jpeg' | relative_url }})
+
+That's it! 'Til next time. 
+
+Kaj
