@@ -9,7 +9,7 @@ Bom dia!
 We thought we would be one of the first people out by Ipanema beach this morning at 6:30, but there were already so many people jogging, playing beach volleyball and exercising already. It seems like Rio has a very large fitness community.
 
 Ipanema beach at 6:30am
-![Ipanema]({{ '/assets/images/260318/kaj_gondol.jpeg' | relative_url }})
+![Ipanema]({{ '/assets/images/260318/ipanema-morning.jpeg' | relative_url }})
 
 After an early morning swim, we took a walk around the Lagoa Rodrigo de Freitas (a lake in the south zone).
 
@@ -17,9 +17,26 @@ We arrived at Jardim Botanico (The Botanical Gardens) at 11am and lined up to ge
 
 The gardens had a lot of preserved wildlife as well as a cactus garden.
 
+Botnical garden
+![Garden]({{ '/assets/images/260318/garden.jpeg' | relative_url }})
+
 After the gardens we bought some quick lunch at the supermarket and had a picnic on Ipanema beach. The beach was full of people, and every 30 seconds there would be a vendor passing by selling all kinds of things from drinks and clothes to food like corn and acai.
 
-For dinner, we went to have some Poke bowls right up the street. The owner was extremely friendly and gave us some free 'deep fried tofu' - a new dish he had never made. We asked him if he had any recommendations for a good caipirinha. He said we should check out the Padeira Ipanema (Ipanema Bakery) where they have a rooftop bar. We were very surprised to find that it was a huge bakery where once you go in, you can walk up to the rooftop (while passing the kitchen) and there is a restaurant/bar. We ordered a cashew + holy grass and .. caiprinha. Very interesting flavours. Then we had some 'Chopp' and called it a night.
+Ipanema beach
+![Ipanema]({{ '/assets/images/260318/beach.jpeg' | relative_url }})
+
+For dinner, we went to have some Poke bowls right up the street. The owner was extremely friendly and gave us some free 'deep fried tofu' - a new dish he had never made.
+
+Poke bowl
+![Poke]({{ '/assets/images/260318/poke.jpeg' | relative_url }})
+
+We asked him if he had any recommendations for a good caipirinha. He said we should check out the Padeira Ipanema (Ipanema Bakery) where they have a rooftop bar. We were very surprised to find that it was a huge bakery where once you go in, you can walk up to the rooftop (while passing the kitchen) and there is a restaurant/bar. We ordered a cashew + holy grass and seriguela caiprinha. Very interesting flavours. Then we had some 'Chopp' and called it a night.
+
+Ipanema Bakery
+![IpanemaBakery]({{ '/assets/images/260318/caipi.jpeg' | relative_url }})
+
+Chopp
+![Chopp]({{ '/assets/images/260318/chop.jpeg' | relative_url }})
 
 We managed to make it through Rio without getting our phones stolen. Tomorrow we leave for Iguazu Falls.
 
