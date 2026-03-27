@@ -28,7 +28,7 @@ The best part was that as we continued through the trail, we realized that the f
 
 Under the main fall it was almost raining on us.
 
-![Waterfall]({{ '/assets/images/260320/waterfall2.jpeg' | relative_url }})
+![Waterfall]({{ '/assets/images/260320/waterfall.jpeg' | relative_url }})
 
 At the end of the trail, we got onto the shuttle bus that would take us back to the entrance. While on the bus we heard an announcement that the next stop would have a 2.8km hiking trail called San Jose. We made an impromptu decision to get off at the station and do the trail as we had some time to spare before the park closed for the day.
 
