@@ -6,25 +6,13 @@ permalink: /about/
 
 <section class="section container narrow">
   <h1>About</h1>
-    <p>
-    🦝
-  </p>
-    <p>
-    🦝
-  </p>
   <p>
     Hi! Hej! Olá! 
   </p>
-  <p>
-Tudo bem? </p>
     <p>
-    Acompanhe nossas viagens!
+    We are travelling around South America.</p> 
+    <p>Follow along for updates!
+    Acompanhe nossas viagens! 🦝
   </p>
-    <p>
-    🦝
-  </p>
-    <p>
-    🦝
-  </p>
-
+  <img src="/assets/images/couple.jpeg">
 </section>
