@@ -1,0 +1,33 @@
+---
+layout: post
+title: Santiago
+excerpt:
+---
+
+Today we left Brazil for Santiago, Chile. We had a very interesting 3 hour flight, as the woman who sat next to us was extremely talkative (could only speak Spanish) and talked to us for the whole duration of the flight. She talked to us about her travels and her family and it was a good chance to practice Spanish. She gave us some tips for Santiago, and also talked about how the city has changed due to the Columbian and Venezuelan immigrants...It turned out she was very conservative and also kept asking Rika when she will have a baby. In the end she even gave us a curtain that she had crocheted! Thank you Laura!
+
+After landing in Santiago we got an Uber to our hotel. Apparently uber isn't allowed around the airport but we were able to get one anyway. The drivers seem to be coordinating where it's "safe" to go using radio communication with other drivers to avoid inspection.
+
+We arrived safely at the hotel and found a vegan restaurant a few blocks away. We tried the famous Chilean hot-dog, "Completo" and a pizza. We were super hungry at this point so even though the pizza was huge we finished it all. It wasn't the best pizza but the hot-dog was good.
+
+Completo
+![Completo]({{ '/assets/images/260322/completo.jpeg' | relative_url }})
+
+Satisfied with our meal we went back to the hotel and went to sleep early!
+
+The following day was the day of our frlight to the Atacama desert. It was planned for the afternoon, though, so we decided to hike up San Cristobal mountain in the morning. It was close to our hotel and it was a nice climb that took maybe an hour and a half. We were able to find a "shortcut" through the forest which was very fun!
+
+The hill
+![Hill]({{ '/assets/images/260322/hill.jpeg' | relative_url }})
+
+Can you tell we are in Chile?
+![Chile]({{ '/assets/images/260322/chile.jpeg' | relative_url }})
+
+The view from the top
+![View]({{ '/assets/images/260322/back.jpeg' | relative_url }})
+
+We headed down and got lunch at El Vegan. We got a mushroom empanada and a Pastel de Choclo which were both excellent! The pastel is like a sweet corn-pie with a savoury "meat"-sauce underneath. Really nice.
+
+![Choclo]({{ '/assets/images/260322/choclo.jpeg' | relative_url }})
+
+Finishing off our meal we went to the airport to head to our next destination: The Atacama Desert. 
