@@ -4,9 +4,9 @@ title: The Atacama Desert
 excerpt: 
 ---
 
-San Pedro de Atacama is an interesting oasis town. The main industry as tourism and since the desert is so vast, the only easy way to get to the tourist attractions is by booking a tour. The main street in the town is lined with agencies all offering similar tours. Since it was our first day, we decided to take it easy and plan/book our tours for the next 5 days. While we were visitng many agencies comparing the prices, we were suddenly hit with the altitude and felt light-headed. It was hard to concentrate and haggle in Spanish, but in the end we managed to book our tours and espsecially the 2D3N Uyuni tour which we would use to travel to Bolivia.
+San Pedro de Atacama is an interesting oasis town. The main industry is tourism and since the desert is so vast, the only easy way to get to the tourist attractions is by booking a tour. The main street in the town is lined with agencies all offering similar tours. Since it was our first day, we decided to take it easy and plan/book our tours for the next 5 days. While we were visitng many agencies comparing the prices, we were suddenly hit with the altitude 2,407 m (7,897 ft) and felt light-headed. It was hard to concentrate and haggle in Spanish, but in the end we managed to book our tours with good prices. The most important one was the 2D3N Uyuni tour which we would need to travel to Bolivia.
 
-We booked one tour for the evening to the Valley of the Moon. We were in the same van as a Korean tour group - they were very lovely. In this valley there were natural formations that were given meanings such as the 'Tres Marias'. However, our tour guide was obviously an atheist and preferred the dinosaur looking formation right next to the holy ladies.
+We also booked one tour for the evening to the Valley of the Moon. We were in the same van as a Korean tour group - they were very lovely. In this valley there were natural formations that were given meanings such as the 'Tres Marias'. However, our tour guide was obviously an atheist and preferred looking at the dinosaur-like formation right next to the holy ladies.
 
 The desert
 ![Desert]({{ '/assets/images/260324/desert.jpeg' | relative_url }})
