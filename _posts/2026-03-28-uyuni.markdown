@@ -1,0 +1,35 @@
+---
+layout: post
+title: Uyuni day one
+excerpt: The border crossing took around an hour as there was a lot of waiting invovled.
+---
+
+Today was the start of the infamous 2D3N Uyuni tour which consists of crossing the border to Bolivia to go across the salt flats in 4x4 jeep. We were picked up at the hostel at 5am to go straight to the Bolivian border. We had some breakfast there while waiting for the border to open. The view was incredible with the sunrise and the mountains in the background. At breakfast we met 2 other couples (one German/Canadian, one British) whom we would share the jeep and tour with for the next 3 days. We were extremely lucky that they were around the same age group and really friendly, mature and great people. 
+
+Sunrise by the border
+![Border]({{ '/assets/images/260328/border.jpeg' | relative_url }})
+
+The border crossing took around an hour as there was a lot of waiting involved. The process was to get one stamp to leave Chile, and then one stamp to enter Bolivia as well as a different checkpoint for customs into Bolivia. I had prepared the QR code for the customs for the both of us, but had accidentally saved the same QR code twice. They still let us in without Kajs QR code so it seemed like the Bolivian border control was not so strict.
+
+Once out of Chile we changed vehicles to the 4x4 and strapped our backpacks to the roof. Inside the jeep it was extremely cramped as we had 6 people plus the driver. The first place headed to was the white lagoon just across the border.
+
+The jeep
+![Jeep]({{ '/assets/images/260328/jeep.jpeg' | relative_url }})
+
+The white lagoon
+![WhiteLagoon]({{ '/assets/images/260328/whitelagoon.jpeg' | relative_url }})
+
+We then had a long drive to the geysers and hot springs at over 4000m elevation. At the geysers it started hauling big chunks of ice suddenly. There were two baths, one a bit warmer than the other around 34 degrees. It felt really nice to soak our tired bodies in the bath.
+
+The thermal baths
+![WhiteLagoon]({{ '/assets/images/260328/onsen.jpeg' | relative_url }})
+
+After the bath we had some lunch and then heading back in the jeep for a long drive. We stopped at the emerald lagoon and the pink lagoon. It started to be a storm but we also made a stop at some rock formations.
+
+A cool rock formation
+![Rocks]({{ '/assets/images/260328/rock.jpeg' | relative_url }})
+
+We drove a lot this day from 5am to 6pm. We got to our hostel in a tiny village and had some dinner before going to bed.
+
+Hostel room
+![Hostel]({{ '/assets/images/260328/hostel.jpeg' | relative_url }})
